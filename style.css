@@ -1,0 +1,59 @@
+body{
+    color:gray;
+    font-family:cursive;
+text-align:justify;
+}
+
+h1{
+    font-size:30px;
+}
+
+#home{
+    background-color: rgb(242, 175, 175);
+}
+
+#activites{
+    background-color: rgb(228, 200, 148);
+}
+
+#videos{
+    background-color:rgb(249, 249, 155);
+}
+
+#sm{
+    background-color: rgb(206, 206, 255);
+}
+
+
+#campuslife{
+    background-color: rgb(228, 255, 188);
+    border: 1px solid lightgrey;
+}
+
+#rfs{
+    background-color:rgb(213, 142, 251);
+}
+
+#contact{
+    background-color:rgb(183, 124, 255);
+}
+
+.Campus_mainDiv h5, .Campus_mainDiv p{
+    margin:20px;
+}
+
+.Campus_mainDiv img{
+    width:100%;
+}
+
+.school_head{
+    font-size:25px;
+}
+
+p{
+    font-size:16px;
+}
+
+h5{
+    font-size:17px;
+}
